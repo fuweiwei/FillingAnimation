@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * 描述
+ * 填充view
  * Created by fww
  * date 16/4/25.
  */
